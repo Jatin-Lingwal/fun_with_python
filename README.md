@@ -1,1 +1,1 @@
-# fun_with_python
+As part of my learning phase, I have just started to code with PPL(python programming language) and for programming, I have used pycharm IDE(integrated development environment ), which is just a personal preference you may use any other IDE. This repository will help you to understand the basics of PPL. As we all know IT industry is moving to a whole new paradigm, we all need to scale ourselves accordingly.
